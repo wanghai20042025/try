@@ -1,0 +1,35 @@
+9：00-18:00 8课时 zuoye
+
+Html                  2*8                    5
+css                   2*8
+JavaScript、 ajax     2*10                   6 
+
+jquery                2*10
+
+CSS3深入 bootstrap    3*10
+
+es6                  5*10                    7
+
+公众号+web接入       3*10
+
+
+Android              3*10
+
+Android   高         4*10
+
+android混编         0.5*10                     
+
+Node.js               3*10                   8
+express               2*10
+
+thymeleaf          3*10
+
+Angular.js          3*10                    
+React.js           3*10                      9
+
+highchart         0.5*10
+
+小应用微信            1*10
+
+
+
